@@ -1,7 +1,7 @@
 [
     {
         "position": "前端工程师",
-        "requirement": [
+        "requirements": [
             {
                 "info": "introintrointrointrointrointrointrointro"
             },
@@ -33,7 +33,7 @@
     },
     {
         "position": "前端工程师-小程序",
-        "requirement": [
+        "requirements": [
             {
                 "info": "introintrointrointrointrointrointrointro"
             },
@@ -65,7 +65,7 @@
     },
     {
         "position": "前端工程师-可视化",
-        "requirement": [
+        "requirements": [
             {
                 "info": "introintrointrointrointrointrointrointro"
             },
@@ -97,7 +97,7 @@
     },
     {
         "position": "前端架构师",
-        "requirement": [
+        "requirements": [
             {
                 "info": "introintrointrointrointrointrointrointro"
             },
