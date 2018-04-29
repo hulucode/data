@@ -2,97 +2,81 @@
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test2.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test2.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test2.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
-        "description": "description"
+        "intro": "intro"
     },
     {
         "name": "kevin",
         "img": "images/test2.jpg",
-        "title": "title",
         "description": "description"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
         "description": "description"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
         "description": "description"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
         "description": "description"
     },
     {
         "name": "kevin",
         "img": "images/test.jpg",
-        "title": "title",
         "description": "description"
     }
 ]
