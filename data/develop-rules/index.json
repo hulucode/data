@@ -7,7 +7,7 @@
             {
                 "title": "二级菜单1",
                 "data": {
-                    "url": "./assets/data/develop-rules/1.md"
+                    "url": "1.md"
                 }
             }
         ]
@@ -20,7 +20,7 @@
             {
                 "title": "二级菜单2",
                 "data": {
-                    "url": "./assets/data/develop-rules/2.md"
+                    "url": "2.md"
                 }
             }
         ]
