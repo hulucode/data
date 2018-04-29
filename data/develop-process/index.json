@@ -1,28 +1,20 @@
 [
     {
-        "icon": "anticon anticon-file-text",
-        "title": "什么是规范？",
-        "isOpen": true,
-        "submenus": [
-            {
-                "title": "二级菜单1",
-                "data": {
-                    "url": "./assets/data/develop-rules/1.md"
-                }
-            }
-        ]
+      "title": "第一步",
+      "data": {
+        "url": "1.md"
+      }
     },
     {
-        "icon": "anticon anticon-file-text",
-        "title": "为什么规范？",
-        "isOpen": true,
-        "submenus": [
-            {
-                "title": "二级菜单2",
-                "data": {
-                    "url": "./assets/data/develop-rules/2.md"
-                }
-            }
-        ]
+      "title": "第二步",
+      "data": {
+        "url": "2.md"
+      }
+    },
+    {
+      "title": "第三步",
+      "data": {
+        "url": "1.md"
+      }
     }
-]
+  ]
