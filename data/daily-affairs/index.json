@@ -46,6 +46,12 @@
                 }
             },
             {
+                "title": "学习分享",
+                "data": {
+                    "url": "learning-sharing.md"
+                }
+            },
+            {
                 "title": "吃喝玩乐",
                 "data": {
                     "url": "beer_skittles.md"
