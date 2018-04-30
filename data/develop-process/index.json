@@ -2,91 +2,91 @@
   {
     "title": "1. 需求评审",
     "data": {
-      "url": "1.md"
+      "url": "requirements_appraisal.md"
     }
   },
   {
-    "title": "2. 任务拆解",
+    "title": "2. 任务分解",
     "data": {
-      "url": "1.md"
+      "url": "task_disintegrate.md"
     }
   },
   {
     "title": "3. 技术选型",
     "data": {
-      "url": "2.md"
+      "url": "technology_selection.md"
     }
   },
   {
     "title": "4. 申请环境",
     "data": {
-      "url": "2.md"
+      "url": "apply_environment.md"
     }
   },
   {
-    "title": "5. Git管理",
+    "title": "5. 创建Git分支",
     "data": {
-      "url": "2.md"
+      "url": "create_git.md"
     }
   },
   {
-    "title": "6. 工程创建",
+    "title": "6. 创建工程",
     "data": {
-      "url": "1.md"
+      "url": "creata_project.md"
     }
   },
   {
     "title": "7. 提供Jenkins脚本",
     "data": {
-      "url": "2.md"
+      "url": "provide_script.md"
     }
   },
   {
     "title": "8. 模块划分",
     "data": {
-      "url": "1.md"
+      "url": "module_split.md"
     }
   },
   {
     "title": "9. 代码实现",
     "data": {
-      "url": "1.md"
+      "url": "code_resolve.md"
     }
   },
   {
     "title": "10. Code Review",
     "data": {
-      "url": "1.md"
+      "url": "code_review.md"
     }
   },
   {
     "title": "11. 发布测试环境",
     "data": {
-      "url": "1.md"
+      "url": "publish_test_environment.md"
     }
   },
   {
     "title": "12. Bug Fixed",
     "data": {
-      "url": "1.md"
+      "url": "bux_fixed.md"
     }
   },
   {
     "title": "13. Code Review",
     "data": {
-      "url": "1.md"
+      "url": "code_review.md"
     }
   },
   {
     "title": "14. 发布生产环境",
     "data": {
-      "url": "1.md"
+      "url": "publish_production_environment.md"
     }
   },
   {
-    "title": "14. 日常维护",
+    "title": "15. 日常维护",
     "data": {
-      "url": "1.md"
+      "url": "daily_maintenance.md"
     }
   }
 ]
