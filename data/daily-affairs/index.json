@@ -5,22 +5,48 @@
         "isOpen": true,
         "submenus": [
             {
-                "title": "二级菜单1",
+                "title": "入职须知",
                 "data": {
-                    "url": "1.md"
+                    "url": "induction_notice.md"
                 }
             }
         ]
     },
     {
         "icon": "anticon anticon-user",
-        "title": "为什么规范？",
+        "title": "迟到&请假",
         "isOpen": true,
         "submenus": [
             {
-                "title": "二级菜单2",
+                "title": "规章制度",
                 "data": {
-                    "url": "2.md"
+                    "url": "late_leave.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-user",
+        "title": "加班补助",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "小小心意",
+                "data": {
+                    "url": "overtime_subsidy.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-user",
+        "title": "团队建设",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "劳逸结合",
+                "data": {
+                    "url": "team_build.md"
                 }
             }
         ]

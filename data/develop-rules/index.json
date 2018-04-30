@@ -1,26 +1,90 @@
 [
     {
         "icon": "anticon anticon-file-text",
-        "title": "什么是规范？",
+        "title": "概述",
         "isOpen": true,
         "submenus": [
             {
-                "title": "二级菜单1",
+                "title": "什么是规范？",
                 "data": {
-                    "url": "1.md"
+                    "url": "what_rules.md"
+                }
+            },
+            {
+                "title": "为什么规范？",
+                "data": {
+                    "url": "why_rules.md"
+                }
+            },
+            {
+                "title": "我们该怎么做？",
+                "data": {
+                    "url": "how_rules.md"
                 }
             }
         ]
     },
     {
         "icon": "anticon anticon-file-text",
-        "title": "为什么规范？",
+        "title": "html 规范",
         "isOpen": true,
         "submenus": [
             {
-                "title": "二级菜单2",
+                "title": "请您遵守以下规则",
                 "data": {
-                    "url": "2.md"
+                    "url": "html_rules.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-file-text",
+        "title": "css 规范",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "请您遵守以下规则",
+                "data": {
+                    "url": "css_rules.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-file-text",
+        "title": "js 规范",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "请您遵守以下规则",
+                "data": {
+                    "url": "js_rules.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-file-text",
+        "title": "命名规范",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "请您遵守以下规则",
+                "data": {
+                    "url": "named_rules.md"
+                }
+            }
+        ]
+    },
+    {
+        "icon": "anticon anticon-file-text",
+        "title": "资源规范",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "请您遵守以下规则",
+                "data": {
+                    "url": "resource_rules.md"
                 }
             }
         ]
