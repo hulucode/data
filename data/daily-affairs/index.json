@@ -16,7 +16,7 @@
         "isOpen": true,
         "submenus": [
             {
-                "title": "规章制度",
+                "title": "严格遵守",
                 "data": {
                     "url": "late_leave.md"
                 }
@@ -40,9 +40,15 @@
         "isOpen": true,
         "submenus": [
             {
-                "title": "劳逸结合",
+                "title": "人才内推",
                 "data": {
-                    "url": "team_build.md"
+                    "url": "talents_interpolate.md"
+                }
+            },
+            {
+                "title": "吃喝玩乐",
+                "data": {
+                    "url": "beer_skittles.md"
                 }
             }
         ]

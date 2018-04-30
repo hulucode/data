@@ -82,5 +82,29 @@
                 }
             }
         ]
+    },
+    {
+        "title": "浏览器兼容",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "与时俱进",
+                "data": {
+                    "url": "browse_compatibility.md"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ps&mobile屏幕适配",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "略施小计",
+                "data": {
+                    "url": "screen_adapter.md"
+                }
+            }
+        ]
     }
 ]
