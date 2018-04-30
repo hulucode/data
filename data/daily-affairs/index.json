@@ -1,45 +1,28 @@
 [
     {
+        "icon": "anticon anticon-user",
         "title": "新人驾到",
-        "time": "2018-10-10",
-        "author": "kevin",
-        "status": "done",
-        "data": {
-            "url": "1.md"
-        }
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "二级菜单1",
+                "data": {
+                    "url": "1.md"
+                }
+            }
+        ]
     },
     {
-        "title": "学习计划2",
-        "time": "2018-10-20",
-        "author": "kevin",
-        "data": {
-            "url": "2.md"
-        }
-    },
-    {
-        "title": "学习计划3",
-        "time": "2018-10-20",
-        "author": "kevin",
-        "data": {
-            "url": "2.md"
-        }
-    },
-    {
-        "title": "学习计划4",
-        "time": "2018-10-20",
-        "author": "kevin",
-        "status": "undone",
-        "data": {
-            "url": "2.md"
-        }
-    },
-    {
-        "title": "学习计划5",
-        "time": "2018-10-20",
-        "author": "kevin",
-        "status": "done",
-        "data": {
-            "url": "2.md"
-        }
+        "icon": "anticon anticon-user",
+        "title": "为什么规范？",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "二级菜单2",
+                "data": {
+                    "url": "2.md"
+                }
+            }
+        ]
     }
 ]
