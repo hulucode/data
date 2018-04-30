@@ -1,6 +1,5 @@
 [
     {
-        "icon": "anticon anticon-user",
         "title": "新人驾到",
         "isOpen": true,
         "submenus": [
@@ -13,7 +12,6 @@
         ]
     },
     {
-        "icon": "anticon anticon-user",
         "title": "迟到&请假",
         "isOpen": true,
         "submenus": [
@@ -26,7 +24,6 @@
         ]
     },
     {
-        "icon": "anticon anticon-user",
         "title": "加班补助",
         "isOpen": true,
         "submenus": [
@@ -39,7 +36,6 @@
         ]
     },
     {
-        "icon": "anticon anticon-user",
         "title": "团队建设",
         "isOpen": true,
         "submenus": [
