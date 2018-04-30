@@ -16,7 +16,7 @@
         "isOpen": true,
         "submenus": [
             {
-                "title": "严格遵守",
+                "title": "请您严格遵守",
                 "data": {
                     "url": "late_leave.md"
                 }

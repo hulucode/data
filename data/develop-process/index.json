@@ -1,20 +1,86 @@
 [
-    {
-      "title": "第一步",
-      "data": {
-        "url": "1.md"
-      }
-    },
-    {
-      "title": "第二步",
-      "data": {
-        "url": "2.md"
-      }
-    },
-    {
-      "title": "第三步",
-      "data": {
-        "url": "1.md"
-      }
+  {
+    "title": "1. 需求评审",
+    "data": {
+      "url": "1.md"
     }
-  ]
+  },
+  {
+    "title": "2. 任务拆解",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "3. 技术选型",
+    "data": {
+      "url": "2.md"
+    }
+  },
+  {
+    "title": "4. 发布环境",
+    "data": {
+      "url": "2.md"
+    }
+  },
+  {
+    "title": "5. Git管理",
+    "data": {
+      "url": "2.md"
+    }
+  },
+  {
+    "title": "6. 工程创建",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "7. Jenkins脚本",
+    "data": {
+      "url": "2.md"
+    }
+  },
+  {
+    "title": "8. 模块划分",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "9. 代码实现",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "10. Code Review",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "11. 发布至测试环境",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "12. Bug修复",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "13. Code Review",
+    "data": {
+      "url": "1.md"
+    }
+  },
+  {
+    "title": "14. 发布至生产环境",
+    "data": {
+      "url": "1.md"
+    }
+  }
+]
