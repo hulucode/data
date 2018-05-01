@@ -12,7 +12,7 @@
         ]
     },
     {
-        "title": "迟到&请假",
+        "title": "迟到请假",
         "isOpen": true,
         "submenus": [
             {
@@ -36,15 +36,21 @@
         ]
     },
     {
-        "title": "团队建设",
+        "title": "每周汇报",
         "isOpen": true,
         "submenus": [
             {
-                "title": "人才内推",
+                "title": "点点滴滴",
                 "data": {
-                    "url": "talents_interpolate.md"
+                    "url": "weekly-report.md"
                 }
-            },
+            }
+        ]
+    },
+    {
+        "title": "团队建设",
+        "isOpen": true,
+        "submenus": [
             {
                 "title": "学习分享",
                 "data": {
@@ -52,9 +58,27 @@
                 }
             },
             {
-                "title": "吃喝玩乐",
+                "title": "目标规划",
+                "data": {
+                    "url": "target-plan.md"
+                }
+            },
+            {
+                "title": "绩效考核",
+                "data": {
+                    "url": "performance-evaluation.md"
+                }
+            },
+            {
+                "title": "轻松一刻",
                 "data": {
                     "url": "beer_skittles.md"
+                }
+            },
+            {
+                "title": "人才内推",
+                "data": {
+                    "url": "talents_interpolate.md"
                 }
             }
         ]
