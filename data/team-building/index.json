@@ -1,0 +1,62 @@
+[
+    {
+        "title": "学习分享",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "学习分享",
+                "data": {
+                    "url": "learning-sharing.md"
+                }
+            }
+        ]
+    },
+    {
+        "title": "目标规划",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "目标规划",
+                "data": {
+                    "url": "target-plan.md"
+                }
+            }
+        ]
+    },
+    {
+        "title": "绩效考核",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "绩效考核",
+                "data": {
+                    "url": "performance-evaluation.md"
+                }
+            }
+        ]
+    },
+    {
+        "title": "劳逸结合",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "轻松一刻",
+                "data": {
+                    "url": "beer_skittles.md"
+                }
+            }
+        ]
+    },
+    {
+        "title": "人才内推",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "谈钱不伤感情",
+                "data": {
+                    "url": "talents_interpolate.md"
+                }
+            }
+        ]
+    }
+]
