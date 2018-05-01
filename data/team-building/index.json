@@ -24,6 +24,18 @@
         ]
     },
     {
+        "title": "人才培养",
+        "isOpen": true,
+        "submenus": [
+            {
+                "title": "人才培养",
+                "data": {
+                    "url": "talents_training.md"
+                }
+            }
+        ]
+    },
+    {
         "title": "绩效考核",
         "isOpen": true,
         "submenus": [
@@ -36,25 +48,13 @@
         ]
     },
     {
-        "title": "劳逸结合",
+        "title": "轻松一刻",
         "isOpen": true,
         "submenus": [
             {
                 "title": "轻松一刻",
                 "data": {
                     "url": "beer_skittles.md"
-                }
-            }
-        ]
-    },
-    {
-        "title": "人才内推",
-        "isOpen": true,
-        "submenus": [
-            {
-                "title": "谈钱不伤感情",
-                "data": {
-                    "url": "talents_interpolate.md"
                 }
             }
         ]
